@@ -1,7 +1,8 @@
 # Roguelike Game
 
 Um jogo Roguelike feito com PgZero.
-
+ 
+ 
 ## Como Executar
 1. Instale o Python 3.x e PgZero:
    ```sh
